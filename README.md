@@ -10,29 +10,85 @@
 
 <br />
 
-O **Projeto Portfólio Pessoal** é um **site profissional moderno**, desenvolvido com **HTML, CSS e JavaScript**, com o objetivo de apresentar informações sobre a pessoa desenvolvedora, seus projetos e formas de contato de maneira clara, interativa e responsiva.
+---
 
-O projeto consome dados dinâmicos da **API do GitHub**, permitindo que informações como perfil e repositórios sejam carregadas automaticamente, mantendo o conteúdo sempre atualizado.
+## 🙋‍♂️ Sobre Mim
 
-------
+Sou um desenvolvedor em formação apaixonado por tecnologia, jogos, animes e uma boa música.
 
-## Funcionalidades
+Atualmente venho aprimorando minhas habilidades em desenvolvimento web, Java e ecossistema Spring, sempre buscando criar soluções organizadas, funcionais e com foco na experiência do usuário.
 
-- Estrutura de páginas desenvolvida com **HTML semântico**
-- Estilização moderna com **CSS**, utilizando:
-  - Variáveis CSS
-  - Animações
-  - Layout responsivo (desktop, tablet e mobile)
-- Integração com a **API do GitHub** para:
-  - Exibição dinâmica das informações do perfil
-  - Listagem automática dos repositórios
-- Exibição dos projetos em **carrossel interativo** utilizando **Swiper.js**
-- **Formulário de contato com validação no frontend**, garantindo o correto preenchimento dos campos
-- Página dedicada de **confirmação de envio** do formulário
-- Navegação fluida com menu fixo e rolagem suave
-- Interface intuitiva e organizada, focada na experiência do usuário
+Acredito que a tecnologia é uma ferramenta capaz de transformar ideias em soluções reais, e estou constantemente buscando novos desafios para crescer profissionalmente.
 
-------
+---
+
+## 👨‍💻 Sobre o Projeto
+
+Este portfólio foi desenvolvido por **Jhonatan Oliveira** com o objetivo de reunir projetos, compartilhar conhecimentos adquiridos durante meus estudos e apresentar minhas habilidades técnicas de forma prática e organizada.
+Atualmente estou em constante evolução na área de desenvolvimento de software, buscando aprofundar meus conhecimentos em programação, desenvolvimento web e boas práticas de código. Este projeto representa não apenas uma vitrine profissional, mas também uma demonstração da minha trajetória de aprendizado e dedicação à tecnologia.
+Além de exibir meus projetos, o site consome dados da **API do GitHub**, permitindo que informações do meu perfil e repositórios sejam atualizadas automaticamente.
+
+---
+
+## 🚀 O que você encontrará aqui?
+
+* Informações sobre minha trajetória na área de tecnologia;
+
+* Projetos desenvolvidos durante cursos, estudos e experiências práticas;
+
+* Integração dinâmica com meu perfil do GitHub;
+
+* Tecnologias que venho estudando e aplicando em projetos;
+
+* Formas de contato para networking e oportunidades profissionais.
+
+---
+
+## ✨ Funcionalidades
+
+* Estrutura desenvolvida com **HTML semântico**
+
+* Estilização moderna com **CSS**
+
+* Layout totalmente responsivo
+
+* Integração com a **API do GitHub**
+
+* Exibição automática dos repositórios
+
+* Carrossel de projetos utilizando **Swiper.js**
+
+* Formulário de contato com validação em JavaScript
+
+* Página de confirmação de envio
+
+* Navegação fluida e intuitiva
+
+* Interface organizada e focada na experiência do usuário
+
+---
+
+## 🎯 Objetivos do Projeto
+
+Durante o desenvolvimento deste portfólio, busquei colocar em prática conceitos importantes como:
+
+* Estruturação semântica com HTML5;
+
+* Responsividade para diferentes dispositivos;
+
+* Consumo de APIs REST;
+
+* Manipulação do DOM com JavaScript;
+
+* Validação de formulários;
+
+* Organização de arquivos e boas práticas de desenvolvimento;
+
+* Documentação de projetos para o GitHub.
+
+Este projeto continuará recebendo melhorias conforme eu evoluir meus conhecimentos e desenvolver novas aplicações.
+
+---
 
 ## Estrutura do Projeto
 
@@ -53,7 +109,7 @@ portfolio/
 └── README.md
 ```
 
-------
+---
 
 ## Tecnologias Utilizadas
 
@@ -105,7 +161,7 @@ O site será aberto no navegador e todas as alterações poderão ser visualizad
 
 Este site está disponível publicamente através do **GitHub Pages**. Você pode acessar a versão online pelo link abaixo:
 
-🔗 https://seu-usuario.github.io/seu-repositorio
+🔗 Em breve
 
 ------
 
